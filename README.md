@@ -27,6 +27,7 @@ Anime Wiki призвано стать центральным хабом для 
    
    ```bash
    git clone https://github.com/BAYA2200/MANGA_READ.git
+   ```
 
 # Настройте свою виртуальную среду для Windows
 
